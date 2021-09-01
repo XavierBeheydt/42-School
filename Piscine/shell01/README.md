@@ -10,7 +10,7 @@ This Piscine project continues learning shell commands through short one-liners.
 |   EX01    |   ✅    |
 |   EX02    |   ✅    |
 |   EX03    |   ✅    |
-|   EX04    |   ❌    |
+|   EX04    |   ✅    |
 |   EX05    |   ✅    |
 |   EX06    |   ✅    |
 |   EX07    |   ✅    |
